@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 💌 I'm an Information Systems student
+- 💭 Currently learning Python and C
+
+
+
 <!--
 **julyanaoliv/julyanaoliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
